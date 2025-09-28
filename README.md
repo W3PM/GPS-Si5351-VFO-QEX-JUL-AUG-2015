@@ -6,4 +6,4 @@ UTC and six digit grid square locations are also displayed in the GPS Mode
 
 Sketch Si5351_vfo_v5_3c-I2C.ino contributed by K7ILO provides I2C control of the display.
 
-W3PM_Si5351_GPSD.zip which includes KiCAD and Gerber files was contributed by Jerry, AC9NM
+Si5351_GPSD_W3PM.zip which includes KiCAD and Gerber files was contributed by Jerry, AC9NM
